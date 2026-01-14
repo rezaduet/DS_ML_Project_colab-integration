@@ -14,4 +14,4 @@ hello_world.ipynb
 
 This notebook runs successfully in Google Colab and has been uploaded to this GitHub repository with the commit message "Added hello_world.ipynb".
 
-Repository Link: 
+Repository Link: https://github.com/rezaduet/DS_ML_Project_colab-integration
